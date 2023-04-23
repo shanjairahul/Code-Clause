@@ -163,7 +163,7 @@ function loginButton() {
     var username = document.getElementById("username");
     var password = document.getElementById("password");
     console.log(username, password)
-    if (username.value === "vishal" && password.value === "1111") {
+    if (username.value === "Shanjai" && password.value === "1234") {
         document.getElementById("adminLogin").style.display = "none"
         document.getElementById("mainPanel").style.display = "flex"
         username.value = null
