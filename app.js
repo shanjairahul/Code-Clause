@@ -1,53 +1,53 @@
 
 var questions = [
     {
-        question: "What country has the highest life expectancy?",
-        answer: "Hong Kong",
+        question: "Who is the father of Economics",
+        answer: "Adam Smith",
         options: [
-            "Hong Kong",
-            "China",
-            "India",
-            "USA"
+            "Hippocratus",
+            "G.W.Bush",
+            "Adam Smith",
+            "F.D Roosevelt"
         ]
     },
     {
-        question: "‘Maya’, which was seen in the news, is the world’s first cloning of which animal?",
-        answer: " Wild Arctic wolf",
+        question: "Who founded the policy of 'New Deal'?",
+        answer: " F.D.Roosevelt",
         options: [
-            "One-horned Rhino",
-            " Wild Arctic wolf",
-            "Lion-tailed Macaque",
-            "Great Indian Bustard"
+            "G.W.Bush",
+            "F.D.Roosevelt ",
+            "Barrack Obama",
+            "Donald Trump"
         ]
     },
     {
-        question: " Which one of the following river flows between Vindhyan and Satpura ranges?",
-        answer: "Narmada",
+        question: "Who is the father Astronomy?",
+        answer: "Nicholas Copernicus",
         options: [
-            "Netravati",
-            "Son",
-            "Narmada",
-            "Mahanadi"
+            "Nikola Tesla",
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Nicholas Copernicus"
         ]
     },
     {
-        question: "The Central Rice Research Station is situated in?",
-        answer: "Cuttack",
+        question: "What is the capital of Australia?",
+        answer: "Canberra",
         options: [
-            "Chennai",
-            "Cuttack",
-            "Bangalore",
-            "Quilon"
+            "Sydney",
+            "Canberra",
+            "Perth",
+            "Brisbane"
         ]
     },
     {
-        question: "The metal whose salts are sensitive to light is?",
-        answer: "Silver",
+        question: "Who has the highest score in a test cricket ?",
+        answer: "Brian Lara",
         options: [
-            "Gold",
-            "Silver",
-            "Zinc",
-            "Copper"
+            "Sachin Tendulkar",
+            "Adam Gilchrist",
+            "Brian Lara",
+            "Kapil Dev"
         ]
     },
 ]
